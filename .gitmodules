@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:ro-oliveira95/digital-garden-notes.git
