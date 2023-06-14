@@ -144,6 +144,12 @@ blockquote {
   margin: 0.5em 0;
 }
 
+.footnotes {
+  > hr {
+    display: none;
+  }
+}
+
 .pagination {
   list-style: none;
   padding-left: 0;
