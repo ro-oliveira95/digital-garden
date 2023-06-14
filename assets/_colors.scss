@@ -19,6 +19,23 @@
 [saved-theme="dark"] {
     --light: #1e1e21 !important;
     --dark: #f7f2fa !important;
+    --secondary: #beffae !important;
+    --visited: #d199ff !important;
+    --tertiary: #c5ff92 !important;
+    --primary: #f58382 !important;
+    --gray: #d4d4d4 !important;
+    --lightgray: #292633 !important;
+    --outlinegray: #343434 !important;
+    --highlighted: #574010;
+    --header: #317a40;
+    --title: rgb(150, 255, 108);
+    --scrollbar: rgb(177, 177, 177);
+    --scrollbar-track: rgb(51, 51, 51);
+}
+
+[saved-theme="darkBackup"] {
+    --light: #1e1e21 !important;
+    --dark: #f7f2fa !important;
     --secondary: #e0aeff !important;
     --visited: #d199ff !important;
     --tertiary: #92a8ff !important;
