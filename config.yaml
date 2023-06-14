@@ -1,4 +1,4 @@
-baseURL: https://amethyst.bencuan.me
+baseURL: https://wiki.rooli.dev
 
 # Book configuration
 disablePathToLower: true
@@ -31,7 +31,7 @@ menu:
 params:
 
   name: Rodrigo Neto
-  title: 🌱 Dig's Garden
+  title: 🌱 rO-Oli's Garden
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -70,7 +70,7 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/ro-oliveira95/digital-garden
 
   # Search (WIP)
   search:
