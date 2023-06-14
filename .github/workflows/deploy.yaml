@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
           ssh-key: ${{ secrets.SUBMODULE_CONTENT_PULL_KEY }}
-          submodules: 'recursive'
+          submodules: true
 
       - name: Build Link Index
         uses: jackyzha0/hugo-obsidian@v2.18
